@@ -1,6 +1,6 @@
 const Home = () => {
     return (
-        <div> 
+        <div className="red text-color-blue"> 
             Welcome To PsyFinance SDK!
         </div>
     )
